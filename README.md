@@ -1,3 +1,3 @@
 # weather-website
 
-First node.js app. 
+Uses mapbox.com & weatherstack.com
